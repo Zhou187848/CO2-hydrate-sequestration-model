@@ -1,0 +1,14 @@
+{
+  "hydration_number": 6.0,
+  "wc": 0.28934911242603556,
+  "rho_h": 1100.0,
+  "cp_h": 2564.26705,
+  "cp_h_slope": 1.707,
+  "hydrate_u0": -363581.20882540283,
+  "reference_T_C": 1.0,
+  "reference_P_Pa": 1385638.6600820262,
+  "latent_J_per_mol_CO2": 65475.37879906853,
+  "latent_J_per_kg_hydrate": 430475.8632417392,
+  "definition": "Reference h_h=wc*h_CO2+(1-wc)*h_water-DeltaH/M_h. DeltaH=T*(V_CO2+NH*V_water-V_h)*dPeq/dT, at 1 C on Moridis Table4 P2A; immiscible approximation, HEOS CO2 and same brine caloric reference. Cp_h from Li Table1.",
+  "scope": "Caloric closure anchored at one equilibrium point; not a full hydrate chemical-potential equation of state. Sensitivity required for extrapolation."
+}

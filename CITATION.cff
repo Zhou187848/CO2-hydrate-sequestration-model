@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this version of the model when using the software."
+type: software
+title: "Near-well hydrate accumulation shapes injectivity during deepwater CO₂ storage"
+version: 1.0.1
+license: MIT
+repository-code: "https://github.com/Zhou187848/CO2-hydrate-sequestration-model"
+authors:
+  - family-names: Zhou
+    given-names: Xiang
+  - family-names: Mao
+    given-names: Liangjie
+  - family-names: Fu
+    given-names: Qiang
+  - family-names: Zhou
+    given-names: Shouwei
+  - family-names: Song
+    given-names: Shiji
+  - family-names: Zhu
+    given-names: Junlong
